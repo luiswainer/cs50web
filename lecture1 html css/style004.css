@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+#firstheading{
+    color:red;
+}
+
+div{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    color: white;
+    padding: 25px;
+    margin: 45px;
+    font-family: Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight:700;
+    border:3px solid black;
+}
+
+table, td, th{
+    border:1px solid black;
+    border-collapse:collapse;
+    padding:5px;
+    margin:15px;
+}
+
+
